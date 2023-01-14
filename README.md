@@ -1,6 +1,10 @@
 # Netflix-Movies-and-TV-Show-Dashboard
 
-## Component:
+Dataset : https://www.kaggle.com/datasets/shivamb/netflix-shows
+
+Tableau Dashboard : https://public.tableau.com/app/profile/pebrian.mubarok/viz/NetflixMoviesandTVShow/Dashboard2
+
+## Dashboard Component:
 1. Total Movies and TV Show on Netflix
 2. Movies and TV Show production by year
 3. Movies and TV Show  by country
@@ -10,3 +14,4 @@
 7. Cast with most Movies and TV Show
 
 The dashboard show 7 components with provide interactive interface and search convenience with filter Type (Movies or TV Show) and Released Year (1925 - 2021).
+![image](https://github.com/Pebrian-Mubarok/Netflix-Movies-and-TV-Show-Dashboard/blob/main/Dashboard.png)
